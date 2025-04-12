@@ -6,14 +6,22 @@
 - [ ] Ask Jhonie again for guidance
 - [ ] Talk to your damn tutors
 
+## Random Ideas
+* Python, quirks and best practices: A perspective through the vfx and animation industry.
+  * Python in the industry
+    * What is a `pipeline`
+    * DCCs
+    * Code as a pipeline developer
+      * Modularity and reusable pattern designs
+      * Readability
+      * Complexity
+
 ## Core concepts:
 
 ### What do I want to do
 
 * Reduce the knowledge gap in pipeline / tools between professional studios and education centers
-* Pyblish-like stuff
-  * ? Jhonie doesn't like pyblish
-* System oriented for education
+* Oriented for education
   * ? but how big? `randomb tools` big or `functional pipeline` big?
 * I'm stuck with no promissing ideas and no real pressure to continue
 
